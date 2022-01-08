@@ -7,8 +7,7 @@
 # Fellipe Oliveira
 <sub>*Analista de Telecomunicações* na Algar Telecom</sub>
 
-Hoje sou Analista de Telecomunicações, realizando estudos que misturam telecom com análise de dados, buscando serpre ofertar um serviço de Banda Larga de alta qualidade.
-Dentro destas frentes, acabei me interessando também por Ciência de Dados.
+Hoje sou Analista de Telecomunicações e realizo estudos que misturam telecom com análise de dados, buscando sempre ofertar um serviço de Banda Larga de alta qualidade, elevando a experiência de uso dos nossos clientes. Dentro destas frentes, acabei me interessando também por Ciência de Dados.
 
 Sei que é uma trajetória longa até poder me considerar um Cientista de Dados, mas estudo e tento aplicar todo o conhecimento no dia a dia da empresa, trazendo inteligência nas tomadas de decisões.
 
