@@ -5,18 +5,25 @@
 </p>
 
 # Fellipe Oliveira
-<sub>*Lead Data Scientist* at Space Operations Center</sub>
+<sub>*Analista de Telecomunicações e Dados* na Algar Telecom</sub>
 
-As a experienced Data Scientist and Air Force pilot I combine analytical skills, ability to work in team environments, and attention to details. Having spend the last years applying Machine Learning to Brazilian Air Force real problems, I developed a critical thinking and problem-solving skills.
+Hoje sou Analista de Telecomunicações e de Dados, realizando estudos que misturam as duas áreas, buscando serpre ofertar um serviço de Banda Larga de alta qualidade.
+Dentro destas frentes, acabei me interessando também por Ciência de Dados.
 
-My credentials include a Master's in Space Science and Technology from the Aeronautics Institute of Technology (ITA), an institution of higher education and advanced research rated as one of the top and most prestigious engineering schools in Brazil, and a MBA in Project and Process Management from the University of Air Force (UNIFA).
+Sei que é uma trajetória longa até poder me considerar um Cientista de Dados, mas estudo e tento aplicar todo o conhecimento no dia a dia da empresa, trazendo inteligência nas tomadas de decisões.
 
-**Background in:** Python, Machine Learning, Space Operations and Mathematical Optimisation.
+Esse portifólio aborda alguns projetos que desenvolvi dentro e fora do ambiente corporativo. A ideia é postar ao menos um projeto por bimestre e divulgar aqui e no linkedin.
+
+Sou graduado em Engenharia de Telecomunicações pela Universidade Federal de Uberlândia.
+Pós Graduado em Analytics e BI pela Pontífica Universidade Católica de Minas Gerais
+
+Além destes temas, me interesso por música e natureza.
+
+**Background in:** Python, Spotfire, SQL, Redes Ópticas (GPON), ONUs, OLTs, Switches, Roteadores e BNGs.
 
 **Links:**
-* [Blog](http://sigmoidal.ai)
-* [LinkedIn](https://www.linkedin.com/in/carlosfab)
-* [Medium](https://www.medium.com)
+* [LinkedIn](https://www.linkedin.com/in/fellipe-oliveira/)
+
 
 
 ## Projetos:
