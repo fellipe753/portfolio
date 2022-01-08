@@ -19,7 +19,7 @@ Pós Graduado em Analytics e BI pela Pontífica Universidade Católica de Minas 
 
 Além destes temas, me interesso por música e natureza.
 
-**Background in:** Python, Spotfire, SQL, Redes Ópticas (GPON), ONUs, OLTs, Switches, Roteadores e BNGs.
+**Experiência:** Python, Spotfire, SQL, Redes Ópticas (GPON), ONUs, OLTs, Switches, Roteadores e BNGs.
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/fellipe-oliveira/)
