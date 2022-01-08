@@ -1,10 +1,10 @@
-[![author](https://img.shields.io/badge/author-carlosfab-red.svg)](https://www.linkedin.com/in/fellipe-oliveira/)
+[![author](https://img.shields.io/badge/author-fellipe-red.svg)](https://www.linkedin.com/in/fellipe-oliveira/)
 
 <p align="center">
   <img src="data5.png" >
 </p>
 
-# Carlos Melo
+# Fellipe Oliveira
 <sub>*Lead Data Scientist* at Space Operations Center</sub>
 
 As a experienced Data Scientist and Air Force pilot I combine analytical skills, ability to work in team environments, and attention to details. Having spend the last years applying Machine Learning to Brazilian Air Force real problems, I developed a critical thinking and problem-solving skills.
