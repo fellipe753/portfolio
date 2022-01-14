@@ -28,7 +28,7 @@ Além destes temas, me interesso por música e natureza.
 ## Projetos:
 
 
-* **Estudo de Ações na Bovespa (B3):** https://shorturl.at/fnBNV
+* **Estudo de Ações na Bovespa (B3):** https://bit.ly/3I6fKeb
 
 
 ---
