@@ -22,6 +22,7 @@ Além destes temas, me interesso por música e natureza.
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/fellipe-oliveira/)
+* [Medium](https://medium.com/@fellipe_ao)
 
 
 
