@@ -30,6 +30,7 @@ Além destes temas, me interesso por música e natureza.
 
 
 * **Estudo de Ações na Bovespa (B3):** https://bit.ly/3I6fKeb
+* **Análise Exploratória de Dados Airbnb (NYC):** https://bit.ly/3HmYVMb
 
 
 ---
