@@ -32,7 +32,7 @@ Além destes temas, me interesso por música e natureza.
 * **Estudo de Ações na Bovespa (B3):** https://bit.ly/3I6fKeb
 * **Análise Exploratória de Dados Airbnb (NYC):** https://bit.ly/3HmYVMb
 * **Análise Exploratória de Dados Covid-19:** https://bit.ly/3uZHcHp
-
+* **Detecção de Fraudes em Transações de Cartão de Crédito:** https://bit.ly/36Gfc1w
 
 ---
 
