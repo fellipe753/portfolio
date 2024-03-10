@@ -34,7 +34,7 @@ Além destes temas, me interesso por música e natureza.
 * **Análise Exploratória de Dados Covid-19:** https://bit.ly/3uZHcHp
 * **Detecção de Fraudes em Transações de Cartão de Crédito:** https://bit.ly/3iQjgik
 * **Dashboard Spotify:** https://bit.ly/3GdVqss
-* **Estudo de Ações na Bovespa (B3):** https://bit.ly/3I6fKeb
+* **Estudo de Ações na Bovespa ano 2023:** https://bit.ly/3ItFGTm
 
 ---
 
