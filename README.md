@@ -5,7 +5,7 @@
 </p>
 
 # Fellipe Oliveira
-<sub>*Analista de Telecomunicações* na Algar Telecom</sub>
+<sub>*Analista de Inteligência de Negócios* na ClearSale</sub>
 
 Graduado em Engenharia Eletrônica e de Telecomunicações pela Universidade Federal de Uberlândia. Atuo como Analista de BI na ClearSale, sendo responsável por estruturação de dados, construção de dashboards, reports e garantindo a qualidade das informações fornecidas para nossa Operação, dando insumos para aumentar a eficiência dos times e melhorar a identificação de fraudes. Tenho experiência em SQL, PowerBi, Spotfire, e Python.
 
