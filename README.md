@@ -7,13 +7,13 @@
 # Fellipe Oliveira
 <sub>*Analista de Inteligência de Negócios* na ClearSale</sub>
 
-Graduado em Engenharia Eletrônica e de Telecomunicações pela Universidade Federal de Uberlândia. Atuo como Analista de BI na ClearSale, sendo responsável por estruturação de dados, construção de dashboards, reports e garantindo a qualidade das informações fornecidas para nossa Operação, dando insumos para aumentar a eficiência dos times e melhorar a identificação de fraudes. Tenho experiência em SQL, PowerBi, Spotfire, e Python.
+Graduado em Engenharia Eletrônica e de Telecomunicações pela Universidade Federal de Uberlândia. Atuo como Analista de BI na ClearSale, sendo responsável por estruturação de dados, construção de dashboards, reports e garantindo a qualidade das informações fornecidas para nossa Operação, dando insumos para aumentar a eficiência dos times e melhorar a identificação de fraudes. Tenho experiência em SQL, PowerBi, Databricks e Python.
 
 Atualmente estou estudando sobre Azure, Synapse Pipelines, Integration Services e Logic Apps.
 
 Além destes temas, me interesso por música e natureza.
 
-**Experiência:** Python, Spotfire, SQL, Redes Ópticas (GPON), ONUs, OLTs, Switches, Roteadores e BNGs.
+**Experiências:** Python, Spotfire, SQL, Redes Ópticas (GPON), ONUs, OLTs, Switches, Roteadores e BNGs.
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/fellipe-oliveira/)
