@@ -13,7 +13,6 @@ Atualmente estou estudando sobre Azure, Synapse Pipelines, Integration Services 
 
 Além destes temas, me interesso por música e natureza.
 
-**Experiências:** Python, Spotfire, SQL, Redes Ópticas (GPON), ONUs, OLTs, Switches, Roteadores e BNGs.
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/fellipe-oliveira/)
