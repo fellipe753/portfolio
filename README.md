@@ -11,6 +11,8 @@ Graduado em Engenharia Eletrônica e de Telecomunicações pela Universidade Fed
 
 Além destes temas, me interesso por música e natureza.
 
+Certificações: Databricks Data Engineer Associate • Databricks Data Analyst Associate • Microsoft Certified: Power BI Data Analyst Associate (PL-300) • Microsoft Certified: Azure Data Fundamentals (DP-900)
+
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/fellipe-oliveira/)
