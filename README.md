@@ -9,10 +9,9 @@
 
 Graduado em Engenharia Eletrônica e de Telecomunicações pela Universidade Federal de Uberlândia. Atualmente, atuo como Analista de BI Sênior na Serasa Experian, trabalhando na estruturação e transformação de dados, desenvolvimento de dashboards e relatórios e garantia da qualidade das informações utilizadas pela Operação. Também atuo na otimização de processos e soluções de dados, gerando ganhos de eficiência e redução de custos operacionais. Tenho experiência com SQL, Power BI, Databricks e Python.
 
-Atualmente estou estudando sobre Azure, Synapse Pipelines, Integration Services e Logic Apps.
-
 Além destes temas, me interesso por música e natureza.
 
+**Certificações:** Databricks Data Engineer Associate • Databricks Data Analyst Associate • Microsoft Certified: Power BI Data Analyst Associate (PL-300) • Microsoft Certified: Azure Data Fundamentals (DP-900)
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/fellipe-oliveira/)
@@ -39,10 +38,9 @@ Além destes temas, me interesso por música e natureza.
 
 Bachelor's degree in Electronic and Telecommunications Engineering from the Federal University of Uberlândia. I currently work as a Senior BI Analyst at Serasa Experian, focusing on data structuring and transformation, dashboard and report development, and ensuring the quality of information used by Operations. I also work on optimizing processes and data solutions, generating efficiency gains and reducing operational costs. I have experience with SQL, Power BI, Databricks, and Python.
 
-Currently, I am studying Azure, Synapse Pipelines, Integration Services, and Logic Apps.
-
 In addition to these topics, I am interested in music and nature.
 
+**Certificações:** Databricks Data Engineer Associate • Databricks Data Analyst Associate • Microsoft Certified: Power BI Data Analyst Associate (PL-300) • Microsoft Certified: Azure Data Fundamentals (DP-900)
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/fellipe-oliveira/)
